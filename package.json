@@ -1,0 +1,8 @@
+{
+  "name": "quiz-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.6.5"
+  }
+}
