@@ -66,3 +66,17 @@ If I were to spend more time on this project, I would improve it by:
 - Adding more question types, such as short answer and matching
 - Shuffling the question and answer order so a quiz is not memorized by position
 - Splitting the program into multiple files instead of keeping every class in one file
+
+# AI Disclosure
+
+I used Claude (Anthropic) as a learning and reference tool during this project. The help I received fell into three areas: defning and planning the project, resolving development environment problems, and reviewing the finished code.
+
+Before starting, I had AI help me build a markdown file with the steps I would need to take to complete the project. I was then able to follow those steps and know exactly what I needed to search to find the information for each one. 
+
+Most of the direct assistance was with the development environment, which was new to me since TypeScript needs a build setup and my last project did not. I was given the command to install the Node type definitions, and given complete config json files to add to my project. I did not change these, because they are configuration rather than program logic, but I made sure I understood what each setting does before accepting it.
+
+AI helped me determine the classes I would need and some of the details for implementing those classes. It gave me helpful resources to learn more, especially about node:readline/promises. 
+
+After my program was working, I asked for a code review, and AI helped me tighten up some of my code and find where I was missing essential comments, or where my comments didn't quite make sense. 
+
+I learned a lot about the set up for a typescript program. I wasn't familiar with that before I started this project and AI really helped me understand how to set it up and the importance of having it set up the right way. 
