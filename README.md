@@ -39,7 +39,7 @@ For this project I wanted to learn TypeScript. I created an application that is 
 
 I wanted to learn TypeScript, but I also wanted a program I would use. I am taking several classes that involve memorization, and I wanted a study tool I could write my own questions into.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/m-qv2cS5s_s)
 
 # Development Environment
 
