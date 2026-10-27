@@ -1,45 +1,10 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
-
-# Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
-
-# Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
-
-
-
-# Overview
-
 For this project I wanted to learn TypeScript. I created an application that is a quiz generator and runs in the terminal. The user can create a quiz, add multiple choice and true/false questions to it, edit or delete questions after the fact, and then take any quiz they have made. After each attempt the program shows a score and a review listing every question with the answer the user gave and the correct one, and then sees if the user wants to retry.
 
 I wanted to learn TypeScript, but I also wanted a program I would use. I am taking several classes that involve memorization, and I wanted a study tool I could write my own questions into.
 
-[Software Demo Video](https://youtu.be/m-qv2cS5s_s)
+[Software Demo Video](https://youtu.be/Y6WIY7doXrY)
 
 # Development Environment
 
